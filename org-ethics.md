@@ -10,7 +10,7 @@ implications of their work.
 
 Throughout our conference series, we've found that bringing together
 an assortment of different types and sizes of companies, as well as a
-mix of professional roles, who openly discuss organizational and
+mix of professional roles who openly discuss organizational and
 cultural challenges is the best way to further the development of
 mature data organizations across industries. This track aims to share
 and spread that knowledge.
@@ -26,3 +26,5 @@ manager, if you are interested in building a stronger organizational
 culture around data teams, or if you are concerned about policy and
 ethical considerations surrounding the use of data in your
 organization.
+
+## Community Suggestions and Comments
