@@ -2,7 +2,7 @@
 
 This track will cover various topics related to building data
 organizations as well as the ethical implications of the work we do as
-data professionals. Some companies are just getting started with data,
+data professionals (understanding bias, privacy implications, etc.). Some companies are just getting started with data,
 some have a more mature data team and process, and some simply have
 too much data and too small of a team to manage it! On top of it all,
 many are unaware, or perhaps unconcerned about the ethical
