@@ -18,3 +18,7 @@ This track is for those interested in state of the art data systems
 and the new kinds of applications they're enabling.
 
 ## Community Suggestions and Comments
+
+Worth noting how NYC is home to several database companies, as noted in this tweet (https://twitter.com/mattturck/status/1158763842287128576): "Of course, @MongoDB. @CockroachDB (just announced $55M Series C). Also @TimescaleDB. And others that have founders living in NYC like @InfluxDB and @quasardb"(@annaheim)
+
+AsterixDB could also be an interesting topic, also for the connection with academia (cf. http://www.odbms.org/blog/2019/01/on-sql-and-couchbase-n1ql-for-analytics-interview-with-mike-carey/) (@annaheim)
