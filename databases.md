@@ -22,3 +22,5 @@ and the new kinds of applications they're enabling.
 Worth noting how NYC is home to several database companies, as noted in this tweet (https://twitter.com/mattturck/status/1158763842287128576): "Of course, @MongoDB. @CockroachDB (just announced $55M Series C). Also @TimescaleDB. And others that have founders living in NYC like @InfluxDB and @quasardb"(@annaheim)
 
 AsterixDB could also be an interesting topic, also for the connection with academia (cf. http://www.odbms.org/blog/2019/01/on-sql-and-couchbase-n1ql-for-analytics-interview-with-mike-carey/) (@annaheim)
+
+At a high level, would like to explore a topic around the key differences between MongoDB, CockrochDB, and other off-the-shelf databases where most of the core technology is the same. Would also like to learn the best use cases for a specific db and why that company's db is the best fit for that use case.
